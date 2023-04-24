@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #6c757d;
+  color: azure;
+}
+
+#tugas {
+  background-color: #6c757d;
+}
+
+#tugas h2 {
+  color: azure;
+}
+
+footer {
+  color: azure;
+}
+section {
+  padding-top: 5rem;
+}
